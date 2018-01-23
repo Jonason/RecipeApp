@@ -1,1 +1,1 @@
-# RecipeApp
+# This is an app to store recipes.
